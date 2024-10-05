@@ -19,10 +19,10 @@ terraform {
 
 backend "remote" {
 		hostname = "app.terraform.io"
-		organization = "CloudQuickLabs"
+		organization = "Vijayalaxmi"
 
 		workspaces {
-			name = "AWSEKS"
+			name = "Vijaya"
 		}
 	}
 }
