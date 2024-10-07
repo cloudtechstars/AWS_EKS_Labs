@@ -22,7 +22,7 @@ backend "remote" {
 		organization = "Vijayalaxmi"
 
 		workspaces {
-			name = "Vijaya"
+			name = "AWSEKS"
 		}
 	}
 }
